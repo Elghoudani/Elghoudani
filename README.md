@@ -10,6 +10,7 @@ Medical imaging · LLM systems · MLOps · Paris
 
 | Rank | Competition | Field | Result |
 |:--|:--|:--|:--|
+| **34th&nbsp;/&nbsp;4,032** | [Wunder Fund · Connectome RNN Challenge](https://wundernn.io/connectome/leaderboard) | Sequence modelling with RNNs | `live` · competition still running |
 | **6th&nbsp;/&nbsp;1,009** | [DrivenData · DaT Parkinson's Challenge](https://elghoudani.com/work/dat-parkinsons-challenge) | 3D SPECT brain scans | AUROC **0.9494** · log loss **0.2763** · final private leaderboard |
 | **6th** | Kaggle · CSIRO Image2Biomass | Pasture images → biomass | 3,802 teams |
 | **Top&nbsp;10** | Kaggle · AI Mathematical Olympiad, Progress Prize 2 | Olympiad mathematics with open LLMs | Fixed inference budget |
